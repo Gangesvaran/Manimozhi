@@ -303,7 +303,7 @@ button:focus{
     letter-spacing: 1px;
     text-align: center;
     line-height: 40px;
-    background: #e91327;
+    background: #000000;
     color: #ffffff;
     font-weight: 900;
     border-radius: 100%;
@@ -338,14 +338,14 @@ button:focus{
 }
 
 .top-header .navbar .navbar-collapse ul li a.active {
-    background: #e91327;
+    background: #000000;
     color: #ffffff;
     border-radius: 0 15px;
 }
 
 .top-header .navbar .navbar-collapse ul li a:hover,
 .top-header .navbar .navbar-collapse ul li a:focus {
-	background: #e91327;
+	background: #000000;
     color: #ffffff;
     border-radius: 0 15px;
 }
@@ -369,7 +369,7 @@ button:focus{
 }
 
 .navbar-toggler{
-	border: 2px solid #e91327;
+	border: 2px solid #000000;
 	border-radius: 0;
 	margin: 16px 15px;
 	padding: 10px 10px;
@@ -379,7 +379,7 @@ button:focus{
 	transition: all 0.2s linear;
 }
 .navbar-toggler span {
-    background: #e91327;
+    background: #000000;
     display: block;
     width: 22px;
     height: 2px;
@@ -399,11 +399,11 @@ button:focus{
 }
 
 .navbar-toggler:hover {
-    border: 2px solid #e91327;
+    border: 2px solid #000000;
 }
 
 .navbar-toggler:hover span{
-	background: #e91327;
+	background: #000000;
 }
 
 
@@ -499,7 +499,7 @@ button:focus{
 }
 
 .pogoSlider-nav-btn--selected {
-    background: #e91327 !important;
+    background: #000000 !important;
 }
 
 .pogoSlider--navBottom .pogoSlider-nav {
@@ -553,7 +553,7 @@ button:focus{
 .title-box h2 {
     font-size: 75px;
     font-family: 'Great Vibes', cursive;
-    color: #e91327;
+    color: #000000;
     font-weight: 400;
     padding: 0;
 }
@@ -607,7 +607,7 @@ button:focus{
 
 .about-main-info h2 {
     font-size: 45px;
-    color: #e91327;
+    color: #000000;
     font-weight: 600;
 }
 
@@ -616,7 +616,7 @@ button:focus{
     border-radius: 2px;
     transition: .2s;
     padding: 10px 25px;
-    background: #e91327;
+    background: #000000;
     color: #ffffff;
     font-weight: 300;
     font-size: 15px;
@@ -734,7 +734,7 @@ figure.effect-service h2 {
 }
 
 figure.effect-service h2 {
-    background: #e91327;
+    background: #000000;
     padding: 13px;
     width: 94%;
     height: 58px;
@@ -786,7 +786,7 @@ figure.effect-service:hover p {
     opacity: 1;
 }
 figure.effect-service:hover {
-    border: 8px solid #e91327;
+    border: 8px solid #000000;
 }
 
 
@@ -821,7 +821,7 @@ figure.effect-service:hover {
 
     content: "";
     position: absolute;
-    background: rgba(233, 19, 39, 0.9);
+    background: rgba(17, 16, 16, 0.9);
     width: 100%;
     height: 100%;
     left: 0px;
@@ -861,11 +861,11 @@ figure.effect-service:hover {
 	opacity: 1;
 }
 .gallery-box ul li a:hover{
-	border: 4px solid #e91327;
+	border: 4px solid #000000;
 }
 .gallery-box ul li a .overlay {
     background: #fff;
-    color: #e91327;
+    color: #0a0909;
 }
 
 /*------------------------------------------------------------------
@@ -1218,7 +1218,7 @@ figure.effect-service:hover {
     margin-right: 15px;
     color: #fff;
     border-radius: 100%;
-    background: #e91327;
+    background: #000000;
 
 }
 .dit-right h4 {
@@ -1267,7 +1267,7 @@ figure.effect-service:hover {
 
 .submit-button .btn-common {
 
-    background-color: #e91327;
+    background-color: #000000;
     height: 45px;
     line-height: 45px;
     font-size: 14px;
@@ -1307,7 +1307,7 @@ select.form-control:not([size]):not([multiple]){
 }
 
 .help-block ul li{
-	color: red;
+	color: rgb(0, 0, 0);
 }
 
 .footer-box {
@@ -1332,7 +1332,7 @@ select.form-control:not([size]):not([multiple]){
 }
 
 .footer-box .footer-company-name a:hover {
-    color: #e91327;
+    color: #0000;
 }
 
 
@@ -1343,7 +1343,7 @@ select.form-control:not([size]):not([multiple]){
 
 .subscribe-box {
     padding: 70px 0px;
-    background: #e91327;
+    background: #0000;
 }
 
 .subscribe-inner{
@@ -1403,7 +1403,7 @@ p {
 }
 
 .red_bg  {
-  background: #e91327;
+  background: #0000;
 }
 
 
@@ -1426,7 +1426,7 @@ p {
 
 .red_bg .about-main-info a {
     background: #fff;
-    color: #e91327;
+    color: #0000;
 }
 
 .testimonial_img {
@@ -1452,7 +1452,7 @@ p {
 }
 
 #client_slider .carousel-indicators li.active {
-    background: #e91327;
+    background: #0000;
 }
 
 
