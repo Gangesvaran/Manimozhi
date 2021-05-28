@@ -861,7 +861,7 @@ figure.effect-service:hover {
 	opacity: 1;
 }
 .gallery-box ul li a:hover{
-	border: 4px solid #000000;
+	border: 4px solid #e91327;
 }
 .gallery-box ul li a .overlay {
     background: #fff;
@@ -1319,7 +1319,7 @@ select.form-control:not([size]):not([multiple]){
 
     text-align: center;
     margin: 0px;
-    color: #333;
+    color: rgb(255, 255, 255);
     font-size: 13px;
     font-weight: 400;
     padding-top: 2px;
@@ -1327,12 +1327,12 @@ select.form-control:not([size]):not([multiple]){
 }
 
 .footer-box .footer-company-name a {
-    color: #333;
-    text-decoration: underline !important;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
 }
 
 .footer-box .footer-company-name a:hover {
-    color: #0000;
+    color: rgb(255, 255, 255);
 }
 
 
